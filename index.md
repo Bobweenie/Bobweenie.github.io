@@ -1,22 +1,30 @@
 ---
 layout: default
-title: Bobweenie
+title: Bobweenie's Portfolio
 ---
 
+<img src="![BobweeniePFP](https://github.com/user-attachments/assets/9ea023e6-0861-4321-bba2-3b8d7210b63d)
+" alt="A drawing of Bobweenie" width="200"/>
 
-![BobweeniePFP](https://github.com/user-attachments/assets/4b13d0df-21e8-46eb-9718-71ae420bbd75)
+### Bobweenie's Portfolio
 
-# 👋 Hi, I’m Bobweenie
+A C# Portfolio for Programming II at Columbia College Chicago.  
+This site showcases my class projects, code samples, and programming journey.
 
-Game designer, Roblox developer, and creative mind behind **Hill Billy Zombie Defense**.  
-I also create faith-inspired short content and love building unique gameplay experiences.
+[View My GitHub Profile](https://github.com/Bobweenie)
 
-## 🎮 Projects
+---
 
-- [Hill Billy Zombie Defense](https://www.roblox.com/games/123456789)
-- [Holy Envoy YouTube Shorts](https://youtube.com/@YourChannel)
+## 🧠 Code Projects
 
-## 📫 Contact
+### 🛠️ Project Name Here
+Short description of what the project does.  
+- Feature 1  
+- Feature 2  
+- Technologies: C#
 
-- GitHub: [github.com/Bobweenie](https://github.com/Bobweenie)
-- Email: your@email.com
+---
+
+### 🕹️ Another Project Name
+Short description of this other assignment or game.  
+Include features, your contributions, or what you learned.
