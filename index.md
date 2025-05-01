@@ -7,7 +7,7 @@ title: Bobweenie
 [View My GitHub Profile](https://github.com/Bobweenie)
 
 <p align="center">
-  <img src="BobweeniePFP" alt="Bobweenie profile image" width="200"/>
+  <img src="BobweeniePFP.JPG" alt="Bobweenie profile image" width="200"/>
 </p>
 
 ---
