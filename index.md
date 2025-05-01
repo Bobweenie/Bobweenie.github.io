@@ -1,56 +1,20 @@
 ---
 layout: default
-title: Programming Portfolio
-description: 
-logo: image/![BobweeniePFP](https://github.com/user-attachments/assets/2511f5bd-aaac-429f-a8ce-f7c51b8caf89)
-
+title: Bobweenie
 ---
 
-# Your Name  
-[View My GitHub Profile](https://github.com/yourusername)
+# 👋 Hi, I’m Bobweenie
 
-![Your profile image](your-image.jpg)
+Game designer, Roblox developer, and creative mind behind **Hill Billy Zombie Defense**.  
+I also create faith-inspired short content and love building unique gameplay experiences.
 
----
+## 🎮 Projects
 
-## 🧠 About Me
-
-_A short introduction goes here._
-
----
-
-## 💻 Projects
-
-### 🔹 Project Title
-- Description
-- Technologies used
-- [GitHub Link](#)
-
-### 🔹 Another Project
-- What it does
-- What you learned
-- [GitHub Link](#)
-
----
-
-## 🧪 Code Samples
-
-_Optional: Include code snippets or screenshots here._  
-\`\`\`csharp
-// Your C# example here
-Console.WriteLine("Hello, world!");
-\`\`\`
-
----
-
-## 🎓 Coursework
-
-- Programming II – [Instructor Site](#)
-- Other relevant classes or skills
-
----
+- [Hill Billy Zombie Defense](https://www.roblox.com/games/123456789)
+- [Holy Envoy YouTube Shorts](https://youtube.com/@YourChannel)
 
 ## 📫 Contact
 
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- Email: youremail@example.com
+- GitHub: [github.com/Bobweenie](https://github.com/Bobweenie)
+- Email: your@email.com
+
