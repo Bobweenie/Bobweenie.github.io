@@ -4,6 +4,10 @@ title: Bobweenie
 ---
 
 # Bobweenie  
+
+![BobweeniePFP](https://github.com/user-attachments/assets/ab4d4436-7581-4dbf-b0a6-7bc3afa6e63c)
+
+
 [View My GitHub Profile](https://github.com/Bobweenie)
 
 <p align="center">
