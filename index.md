@@ -1,6 +1,9 @@
 ---
 layout: default
-title: Your Name
+title: Programming Portfolio
+description: 
+logo: image/![BobweeniePFP](https://github.com/user-attachments/assets/2511f5bd-aaac-429f-a8ce-f7c51b8caf89)
+
 ---
 
 # Your Name  
