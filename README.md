@@ -1,4 +1,2 @@
 # Bobweenie.github.io
 
-
-* greatings
