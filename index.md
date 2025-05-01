@@ -3,6 +3,9 @@ layout: default
 title: Bobweenie
 ---
 
+
+![BobweeniePFP](https://github.com/user-attachments/assets/4b13d0df-21e8-46eb-9718-71ae420bbd75)
+
 # 👋 Hi, I’m Bobweenie
 
 Game designer, Roblox developer, and creative mind behind **Hill Billy Zombie Defense**.  
