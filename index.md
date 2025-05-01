@@ -6,7 +6,8 @@ title: Bobweenie
 # Bobweenie  
 [View My GitHub Profile](https://github.com/Bobweenie)
 
-<img src="profolio.png" alt="Bobweenie profile" width="200"/>
+<img src=![BobweeniePFP](https://github.com/user-attachments/assets/63449762-2d4a-436c-8bc9-b9e42132812a)
+ alt="Bobweenie profile" width="200"/>
 
 ---
 
