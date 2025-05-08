@@ -33,5 +33,5 @@ A simple console‐based quiz application that tests your knowledge of programmi
 ## 📫 Contact
 
 - GitHub: [github.com/Bobweenie](https://github.com/Bobweenie)
-- Email: your@email.com
+- Email: Robertvazquez188@gmail.com
 
