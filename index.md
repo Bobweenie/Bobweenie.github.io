@@ -30,6 +30,12 @@ This is my Xamel project where I created a TikTakToe game using GUI and Txt file
 
 A simple console‐based quiz application that tests your knowledge of programming terminology. When run, it presents a series of multiple‐choice questions, reads your answer for each, provides immediate feedback (“Correct!” or the right answer), and displays your total score at the end. It uses a compact data structure to store questions, options, and correct answers, making it easy to add or modify questions.
 
+## Stocks
+![Screenshot 2025-05-08 114956](https://github.com/user-attachments/assets/a5f86274-5363-43b9-b09d-5990fd38f1b6)
+
+A self-contained console app that simulates a mini stock exchange with event-driven price updates. At launch, an Exchange creates four Stock objects (e.g. MSFT, AAPL) and enters a timed loop where each stock’s Fluctuate() method randomly moves its price up (70% chance) or down (30% chance) by 0.5–5%.
+
+
 ## 📫 Contact
 
 - GitHub: [github.com/Bobweenie](https://github.com/Bobweenie)
